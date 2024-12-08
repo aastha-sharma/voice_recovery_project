@@ -75,13 +75,7 @@ Due to GitHub's file size and repository limits, **only a subset of the data** h
 
 ## **How to Run**
 
-1. **Activate the Virtual Environment:**
-
-   ```
-   source venv/bin/activate
-   ```
-
-2. **Run the Main Script:**
+1. **Run the Main Script:**
 
    ```
    python3 scripts/main.py
