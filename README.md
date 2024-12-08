@@ -3,10 +3,8 @@
 
 This project aims to identify the source speaker of mixed or converted audio files using a database of source voiceprints. The system utilizes machine learning and audio processing techniques to analyze voice characteristics and map them to the most probable source speaker.
 
----
 
 ## **Project Structure**
-
 
 voice_conversion_project/
 ├── data_limited/
@@ -18,9 +16,7 @@ voice_conversion_project/
 │   ├── model.py                # Core model logic for voice processing
 ├── requirements.txt            # Python dependencies
 ├── results.csv                 # Output results of processing
-```
 
----
 
 ## **Features**
 
@@ -66,9 +62,13 @@ Due to GitHub's file size and repository limits, **only a subset of the data** h
 
    ```
    python3 -m venv venv
+   
    source venv/bin/activate
+   
    pip install --upgrade pip
+   
    pip install -r requirements.txt
+   
    ```
 
 ---
