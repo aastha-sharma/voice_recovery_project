@@ -44,7 +44,7 @@ Due to GitHub's file size and repository limits, **only a subset of the data** h
 
 ## **Requirements**
 
-- **Python 3.8+**
+- **Python 3.12.3+**
 - **CUDA-compatible GPU** for faster processing (optional but recommended)
 
 ---
