@@ -9,11 +9,12 @@ voice_conversion_project/
 ├── data/
 │   ├── source_audio/           # Original source speaker audio files
 │   ├── mixed_audio/            # Converted/mixed audio files for identification
-│   ├── similar_speakers/       # Audio of speakers similar to the source
+│
 ├── data_limited/               # Limited demo files for quick testing
 ├── scripts/
 │   ├── main.py                 # Main pipeline script
 │   ├── model.py                # Core model logic for voice processing
+    ├── preprocess_audio.py     # Preprocesses the audio files
 ├── requirements.txt            # Python dependencies
 ├── results.csv                 # Output results of processing
 ├── venv/                       # Python virtual environment (if used)
