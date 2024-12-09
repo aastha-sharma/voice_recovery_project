@@ -55,7 +55,7 @@ Due to GitHub's file size and repository limits, **only a subset of the data** h
 
    ```
    git clone https://github.com/aastha-sharma/voice_recovery_project.git
-   cd voice_conversion_project
+   cd voice_recovery_project
    ```
 
 2. **Set Up the Environment:**
